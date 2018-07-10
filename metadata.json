@@ -1,0 +1,18 @@
+{
+  "name": "wells-ssh",
+  "version": "0.1.0",
+  "author": "Wells Training",
+  "summary": "Testing the git repo",
+  "license": "Apache-2.0",
+  "source": "GitHub",
+  "project_page": "asdf",
+  "issues_url": "asdf",
+  "dependencies": [
+    {
+      "name": "puppetlabs-stdlib",
+      "version_requirement": ">= 1.0.0"
+    }
+  ],
+  "data_provider": null
+}
+
